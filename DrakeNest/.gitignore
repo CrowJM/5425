@@ -1,0 +1,11 @@
+# Ficheiros criados automaticamente no computador
+__pycache__/
+*.py[cod]
+
+# Ambiente virtual do Python
+.venv/
+venv/
+
+# Base de dados local e ficheiros sensíveis
+data/*.db
+.env
